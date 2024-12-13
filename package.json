@@ -1,0 +1,15 @@
+{
+  "name": "backendjs",
+  "version": "1.0.0",
+  "description": "basic application",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Tanmay",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.7"
+  }
+}
